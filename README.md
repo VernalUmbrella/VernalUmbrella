@@ -1,16 +1,27 @@
-## Hi there 👋
+# verna
 
-<!--
-**VernalUmbrella/VernalUmbrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sentient umbrella, game developer, math nerd
 
-Here are some ideas to get you started:
+## likes
+- cute anything ^^
+- learning stuff
+- puns
+- noodles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## favored tools
+- [godot game engine](https://godotengine.org/)
+- [krita](https://krita.org/en/)
+- [neovim](https://neovim.io/)
+- [arch linux](https://archlinux.org/)
+
+## research interests
+- graph theory
+- algorithm analysis
+- math education
+- linguistics
+
+## human languages
+- english (native)
+- 日本語（なんとかできる）
+- 中文（還行）
+- [toki pona](https://tokipona.org/) (mi ken)
